@@ -1,12 +1,11 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "个人主页"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-# 关于我
 
 ## 个人简介
 我是计算机科学与技术专业大三本科生，具备扎实的计算机底层理论基础，系统学习过数据结构、计算机组成原理、操作系统、计算机网络等课程。课余喜欢阅读技术书籍、算法刷题，持续学习后端相关技术。
