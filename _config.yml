@@ -27,10 +27,10 @@ author:
   name             : "codeyuan1"
   pronouns         : # example: "she/her"  
   bio              : "keep learning"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "福建"
+  employer         : "福州大学"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "" 
 
   # Academic websites
   academia         : ""# URL
